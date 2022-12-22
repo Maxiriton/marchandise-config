@@ -13,7 +13,7 @@
     {
         "name": "3.0 Studio Tools",
         "service": "github",
-        "group": "Maxiritonr",
+        "group": "Maxiriton",
         "project": "3_0_studio_tools",
         "ref_type": "branch",
         "ref": "master",
@@ -25,7 +25,7 @@
     {
         "name": "Train Updater",
         "service": "github",
-        "group": "Maxiritonr",
+        "group": "Maxiriton",
         "project": "train_updater",
         "ref_type": "branch",
         "ref": "master",
