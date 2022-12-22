@@ -33,6 +33,6 @@
         "categories": ["Layout"],
         "files": {"addons": ["*/*.py"]},
         "private_token":"3point0studio"
-    },
+    }
 ]
 
