@@ -1,0 +1,26 @@
+[
+    {
+        "name": "LFS Package Manager",
+        "service": "gitlab",
+        "group": "lfs.coop/blender",
+        "project": "lfs-blender-package-manager",
+        "ref_type": "branch",
+        "ref": "master",
+        "activation": "",
+        "categories": [],
+        "files": {"addons/lfs-blender-package-manager-master": ["*/*.py", "*/packages.json"]}
+    },
+    {
+        "name": "3.0 Studio Tools",
+        "service": "github",
+        "group": "Maxiritonr",
+        "project": "3_0_studio_tools",
+        "ref_type": "branch",
+        "ref": "master",
+        "activation": "3_0_studio_tools/",
+        "categories": ["Layout"],
+        "files": {"addons": ["*/*.py"]},
+        "private_token":"3point0studio"
+    }
+]
+
