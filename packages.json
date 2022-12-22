@@ -21,6 +21,18 @@
         "categories": ["Layout"],
         "files": {"addons": ["*/*.py"]},
         "private_token":"3point0studio"
-    }
+    },
+    {
+        "name": "Train Updater",
+        "service": "github",
+        "group": "Maxiritonr",
+        "project": "train_updater",
+        "ref_type": "branch",
+        "ref": "master",
+        "activation": "train_updater/",
+        "categories": ["Layout"],
+        "files": {"addons": ["*/*.py"]},
+        "private_token":"3point0studio"
+    },
 ]
 
