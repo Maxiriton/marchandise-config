@@ -17,7 +17,7 @@
         "project": "3_0_studio_tools",
         "ref_type": "branch",
         "ref": "master",
-        "activation": "3_0_studio_tools/",
+        "activation": "",
         "categories": ["Layout"],
         "files": {"addons": ["*/*.py"]},
         "private_token":"3point0studio"
@@ -29,7 +29,7 @@
         "project": "train_updater",
         "ref_type": "branch",
         "ref": "master",
-        "activation": "train_updater/",
+        "activation": "",
         "categories": ["Layout"],
         "files": {"addons": ["*/*.py"]},
         "private_token":"3point0studio"
