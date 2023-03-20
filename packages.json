@@ -52,5 +52,5 @@
         "files": {
             "addons/SB_path_actions": ["*/*.py"]
         }
-    },
+    }
 ]
