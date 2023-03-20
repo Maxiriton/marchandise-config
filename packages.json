@@ -56,7 +56,7 @@
     {
         "name": "GP_toolbox",
         "service": "gitlab",
-        "group": "autour-de-minuit",
+        "group": "autour-de-minuit/blender",
         "project": "GP_toolbox",
         "ref_type": "branch",
         "ref": "master",
