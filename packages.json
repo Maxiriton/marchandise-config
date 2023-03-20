@@ -39,5 +39,18 @@
         "files": {
             "addons/GP_onion_peel": ["*/*.py"]
         }
+    },
+    {
+        "name": "SB_path_actions",
+        "service": "github",
+        "group": "Pullusb",
+        "project": "SB_path_actions",
+        "ref_type": "branch",
+        "ref": "master",
+        "activation": "SB_path_actions",
+        "categories": ["Assist Key"],
+        "files": {
+            "addons/SB_path_actions": ["*/*.py"]
+        }
     }
 ]
