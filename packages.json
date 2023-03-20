@@ -28,7 +28,7 @@
 
     },
     {
-        "name": "3_0_studio_tools",
+        "name": "GP_onion_peel",
         "service": "github",
         "group": "Pullusb",
         "project": "GP_onion_peel",
@@ -40,6 +40,4 @@
             "addons/GP_onion_peel": ["*/*.py"]
         }
     }
-    
-
 ]
