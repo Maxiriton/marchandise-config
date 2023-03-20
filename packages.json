@@ -52,5 +52,16 @@
         "files": {
             "addons/SB_path_actions": ["*/*.py"]
         }
+    },
+    {
+        "name": "GP_toolbox",
+        "service": "gitlab",
+        "group": "autour-de-minuit",
+        "project": "GP_toolbox",
+        "ref_type": "branch",
+        "ref": "master",
+        "activation": "GP_toolbox",
+        "categories": ["Assist Key"],
+        "files": {"addons/GP_toolbox": ["*/*.py"]}
     }
 ]
