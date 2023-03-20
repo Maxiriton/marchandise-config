@@ -8,31 +8,38 @@
         "ref": "master",
         "activation": "",
         "categories": [],
-        "files": {"addons/lfs-blender-package-manager-master": ["*/*.py", "*/packages.json"]}
+        "files": {"addons/lfs-blender-package-manager-march": ["*/*.py", "*/packages.json"]}
     },
     {
-        "name": "3.0 Studio Tools",
+        "name": "3_0_studio_tools",
         "service": "github",
         "group": "Maxiriton",
         "project": "3_0_studio_tools",
         "ref_type": "branch",
         "ref": "master",
-        "activation": "",
-        "categories": ["Layout"],
-        "files": {"addons": ["*/*.py"]},
-        "private_token":"3point0studio"
+        "activation": "3_0_studio_tools",
+        "categories": ["Assist Key"],
+        "files": {
+            "addons/3_0_studio_tools": ["*/*.py"],
+            "addons/3_0_studio_tools/font": ["*/font/*.ttf"],
+            "addons/3_0_studio_tools/blend": ["*/blend/*.blend"]
+        },
+        "private_token": "github_march"
+
     },
     {
-        "name": "Train Updater",
+        "name": "3_0_studio_tools",
         "service": "github",
-        "group": "Maxiriton",
-        "project": "train_updater",
+        "group": "Pullusb",
+        "project": "GP_onion_peel",
         "ref_type": "branch",
-        "ref": "master",
-        "activation": "",
-        "categories": ["Layout"],
-        "files": {"addons": ["*/*.py"]},
-        "private_token":"3point0studio"
-    }
-]
+        "ref": "main",
+        "activation": "GP_onion_peel",
+        "categories": ["Assist Key"],
+        "files": {
+            "addons/GP_onion_peel": ["*/*.py"],
+        },
+    },
+    
 
+]
