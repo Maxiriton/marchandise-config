@@ -37,9 +37,9 @@
         "activation": "GP_onion_peel",
         "categories": ["Assist Key"],
         "files": {
-            "addons/GP_onion_peel": ["*/*.py"],
-        },
-    },
+            "addons/GP_onion_peel": ["*/*.py"]
+        }
+    }
     
 
 ]
